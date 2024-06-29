@@ -15,6 +15,13 @@ The dataset consists of the following columns:
 - Transmission: Transmission type (Manual/Automatic).
 - Owner: Ownership status (First/Second Owner, etc.).
 
+# Library Packages
+
+- pandas
+- scikit-learn
+- numpy
+- matplotlib
+
 # Data Preprocessing
 
 Feature Encoding: Convert categorical features like Fuel, Seller_Type, Transmission, and Owner into numerical values using one-hot encoding. <br>
