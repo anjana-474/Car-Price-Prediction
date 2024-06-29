@@ -22,7 +22,7 @@ Data Splitting: Divide the dataset into training and testing sets.
 
 # Model Training
 
-Utilize the linear regression algorithm to train the model on the training data.
+Utilize the linear regression algorithm to train the model on the training data. <br>
 The model learns the relationship between the features and the selling price.
 
 # Evaluation
