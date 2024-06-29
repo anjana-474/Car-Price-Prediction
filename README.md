@@ -26,7 +26,7 @@ Utilize the linear regression algorithm to train the model on the training data.
 The model learns the relationship between the features and the selling price.
 
 # Evaluation
-Evaluate the model's performance on the testing set using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
+Evaluate the model's performance on the testing set using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²). <br>
 Analyze the coefficients to understand the influence of each feature on the car prices.
 
 # Conclusion
