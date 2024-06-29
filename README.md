@@ -5,15 +5,15 @@ This project aims to predict the selling price of used cars using linear regress
 # Dataset
 
 The dataset consists of the following columns:
-Brand: The make of the car.
-Model: Specific model of the car.
-Year: Year of manufacture.
-Selling_Price: Price at which the car is being sold.
-KM_Driven: Kilometers driven by the car.
-Fuel: Type of fuel used (Petrol/Diesel).
-Seller_Type: Type of seller (Individual/Dealer).
-Transmission: Transmission type (Manual/Automatic).
-Owner: Ownership status (First/Second Owner, etc.).
+- Brand: The make of the car.
+- Model: Specific model of the car.
+- Year: Year of manufacture.
+- Selling_Price: Price at which the car is being sold.
+- KM_Driven: Kilometers driven by the car.
+- Fuel: Type of fuel used (Petrol/Diesel).
+- Seller_Type: Type of seller (Individual/Dealer).
+- Transmission: Transmission type (Manual/Automatic).
+- Owner: Ownership status (First/Second Owner, etc.).
 
 # Data Preprocessing
 
