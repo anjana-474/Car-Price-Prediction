@@ -17,7 +17,7 @@ The dataset consists of the following columns:
 
 # Data Preprocessing
 
-Feature Encoding: Convert categorical features like Fuel, Seller_Type, Transmission, and Owner into numerical values using one-hot encoding.
+Feature Encoding: Convert categorical features like Fuel, Seller_Type, Transmission, and Owner into numerical values using one-hot encoding. <br>
 Data Splitting: Divide the dataset into training and testing sets.
 
 # Model Training
